@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<h1> Currículo</h1>
+<img src="foto clara.jpeg" alt="" height="300px" width="200px">
+<h1> Clara Sophia</h1>
+
+  <head>
+  <meta charset="UFT-8">
+  
+ <p> Meu nome é Clara Sophia, tenho 15 anos, estudo no ifpi de picos e estou cursando o 2° ano do técnico em informática.</p>
+ <p> Eu amo escrever textos e poemas sobre meus sentimentos, gosto de ler, sair e me divertir com meus amigos e amo registrar momentos.</p>
+ <p> Quando concluir o ensino medio, quero cursar enfermagem ou medicina veterinária e pretendo prestar varios concursos.</p>
+ 
+ <hr> 
+ 
+ <ul>
+ <h2> Experiência Profissional: <h/2>
+ <li> atendente de loja </li>
+ <li> modelo de loja </li>
+ 
+ </ul>
+ <hr> 
+ <ul> 
+ <h2> Conhecimentos</h2>
+ <li> Estudei redes e fundamentos de computadores</li>
+ <li> aprendi a desenvolver e planejar um aplicativo</li>
+  
+  </ul> 
+  <hr> 
+  <p><h3> Entre em contato comigo:</h3>
+  clarasophya@165gmail.com ou 89988183233
+  <a href=https://instagram.com/i99clara_?igshid=YmMyMTA2M2Y=>clique aqui</a>
+  
+  <p></p>
+  
+  </body>
+  </html>
